@@ -1,4 +1,4 @@
-This wants to be an example showing how to share Authentication and Authorisation between an ASP.NET Core Web site and a WinForms application.
+This wants to be an example showing how to share *Authentication* and *Authorisation* between an **ASP.NET Core Web Application** and a **Windows Forms Application**.
 
 So far, we have:
 - An ASP.NET Core 2.2 Web Application with "Individual User Accounts"
