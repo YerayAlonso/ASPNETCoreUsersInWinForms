@@ -12,4 +12,4 @@ Then you can login the site with that user account.
 
 The goal is to **login** or **register** new accounts into the same database through the WinForms Application.
 
-It seems the best way to go would be building a Web API as discussed ![here](https://forums.asp.net/post/6249862.aspx)
+It seems the best way to go would be building a Web API similar to [this](http://jasonwatmore.com/post/2019/01/08/aspnet-core-22-role-based-authorization-tutorial-with-example-api) (discussion [here](https://forums.asp.net/t/2152462.aspx)).
